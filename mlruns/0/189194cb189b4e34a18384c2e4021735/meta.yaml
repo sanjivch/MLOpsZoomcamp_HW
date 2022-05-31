@@ -1,0 +1,15 @@
+artifact_uri: file:///home/elite/Documents/DataTalksClub/MLOpsZoomcamp_HW/mlruns/0/189194cb189b4e34a18384c2e4021735/artifacts
+end_time: 1653961448791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 189194cb189b4e34a18384c2e4021735
+run_uuid: 189194cb189b4e34a18384c2e4021735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653961425252
+status: 3
+tags: []
+user_id: elite
